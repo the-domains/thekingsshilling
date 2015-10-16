@@ -1,6 +1,6 @@
 name: thekingsshilling
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 0.44401136226952076
 cta:
   domain: null
   bucket: null
@@ -23,3 +23,4 @@ purpose:
   - name: shares
     item: null
     url: null
+typography_spectrum: 0.005575476214289665
